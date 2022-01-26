@@ -9,7 +9,7 @@ class App extends Component {
 		super(props);
 		this.state = {
 			mode:'read',
-			subject: {title:'WEB', sub:'Welcome react state~~!!'},
+			subject: {title:'WEB2', sub:'Welcome react state~~!!'},
 			welcome: {title:'welcome', desc:'Hello React!!'},
 			contents: [
 				{id:1, title:'HTML', desc:'HTML is good'},
